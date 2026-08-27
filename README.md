@@ -2,7 +2,7 @@
 
 # Olá, meu nome é Daniel Tavares 👋
 
-### Backend Developer · Java & Spring Boot · MySQL · MongoDB
+### Backend Developer · Java & Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieltavaresdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdan3)
